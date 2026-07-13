@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+p{
+    font-size: 20px;
+    color: #000000;
+}
+a{
+    text-decoration: underline;
+    color: #000000;
+    margin: 10px;
+}
+.azul-ciano{
+    background-color: #b0ddfc;
+    padding: 10px;
+}
+.branca {
+    background-color: #ffffff;
+    padding: 40px;
+}
+.destaque-ciano{
+    color: #1b80c4;
+    font-size: 20px;
+}
+.casinha{   
+    width: 400px;
+    height: 250px;
+}
+.azul-escuro{
+    background-color: #1b80c1;
+    color: #ffffff;
+    padding: 40px;
+}
+.p-branco{
+    color: #ffffff;
+}
+.p-amarelo{
+    color: #f7e600;
+    font-weight: bold;
+}
+li{
+    font-size: 20px;
+    line-height: 35px;
+    margin: 0 760px;
+    padding: 5px;
+}
+.texto-contato{
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 250px;
+    padding: 14px;
+    background-color: #000000;
+}
+.corretor{
+    width: 600px;
+    height: 350px;
+}
+.lista-contato li a{
+    color: #0099ff;
+    background-color: #ffffff;
+    font-size: 20px;
+    margin: 0 0px;
+    line-height: 30px;
+    border-radius: 10px;
+    list-style-type: none;
+    padding: 5px;
+}
+
+.fundo{
+    list-style-type: none;
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 30px;
+}
+p {
+    text-align: center;
+    padding: 0 300px;
+}
+.normal {
+    font-size: 20px;
+    color: #006992;
+}
